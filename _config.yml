@@ -1,0 +1,67 @@
+title: "Malik Griffin"
+name: "Malik Griffin"
+description: "IT Operations & Cybersecurity Professional"
+url: "https://malikgriffin.com"   # change after DNS is set
+baseurl: ""                       # keep empty
+locale: "en-US"
+
+# Use the Minimal Mistakes theme via GitHub Pages
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Minimal Mistakes settings
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO + social
+author:
+  name: "Malik Griffin"
+  avatar: "/assets/images/malik.jpg"
+  bio: "Building secure, automated IT systems through technical precision and proactive defense."
+  location: "Remote"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/malik-griffin-0a13692a6"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/malikomari7"
+    - label: "Credly"
+      icon: "fas fa-certificate"
+      url: "https://www.credly.com/users/malik-griffin7"
+
+markdown: kramdown
+theme: null                  # required when using remote_theme
+permalink: /:categories/:title/
+paginate: 6
+paginate_path: /page:num/
+
+# Navigation
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Experience"
+    url: /experience/
+  - title: "Projects"
+    url: /projects/
+  - title: "Certifications"
+    url: /certifications/
+  - title: "Education"
+    url: /education/
+  - title: "Blog"
+    url: /blog/
+  - title: "Contact"
+    url: /contact/
+
+# Skin (color scheme)
+minimal_mistakes_skin: "dark"
+
+# Google Analytics (optional)
+google_analytics: ""  # add your GA4 Measurement ID later
+
+# Build settings for GitHub Pages
+exclude:
+  - node_modules
+  - vendor
