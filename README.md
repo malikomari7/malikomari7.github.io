@@ -28,19 +28,6 @@ Visit the live site: **[https://malikgriffin.com](https://malikgriffin.com)**
 
 ---
 
-## 📁 Structure Overview
-
-├── _config.yml # Site configuration
-├── _pages/ # All main pages (About, Projects, etc.)
-├── _posts/ # Blog articles
-├── assets/
-│ ├── images/ # Headshot, project screenshots, favicon
-│ └── docs/ # Resume PDF and other downloadable files
-├── index.md # Home page
-└── README.md # This file
-
----
-
 ## 🧰 How to Update Content
 
 1. **Edit Markdown files** in `_pages/` or `_posts/` to update site sections.  
