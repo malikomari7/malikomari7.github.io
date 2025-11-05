@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 classes: wide
 title: "IT Operations & Cybersecurity Professional"
 subtitle: "Secure systems • Automated workflows • Real-world results"
