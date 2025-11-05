@@ -1,6 +1,7 @@
 ---
 layout: single
 classes: wide
+navigation:
 title: "IT Operations & Cybersecurity Professional"
 subtitle: "Secure systems • Automated workflows • Real-world results"
 author_profile: true
