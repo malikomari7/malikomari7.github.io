@@ -55,6 +55,19 @@ navigation:
   - title: "Contact"
     url: /contact/
 
+#Map each page to site links in data/navigation
+collections:
+  pages:
+    output: true
+    permalink: /:title/
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
 # Skin (color scheme)
 minimal_mistakes_skin: "dark"
 
