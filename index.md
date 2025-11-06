@@ -6,7 +6,7 @@ subtitle: "Secure systems • Automated workflows • Real-world results"
 author_profile: true
 ---
 
-I design and support secure, automated IT environments—bridging service desk rigor with cybersecurity mindset.
+I design and support secure and automated Enterprise IT infrastructure.
 
 **Highlights**
 - Tier 1–2 support for 3,000+ users, AD/M365 admin, PDQ/Automox automation.
