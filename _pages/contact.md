@@ -14,5 +14,5 @@ permalink: /contact/
   <button type="submit">Send</button>
 </form>
 
-Prefer email? malikf83@gmail.com
+<!-- Need to add my email at some point for direct display-->
 
