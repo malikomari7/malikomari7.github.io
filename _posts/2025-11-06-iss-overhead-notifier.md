@@ -66,3 +66,31 @@ while True:
                 to_addrs=MY_EMAIL,
                 msg="Subject:Look Up 👆\n\nThe ISS is above you in the sky!"
             )
+```
+How It Works
+
+ISS API — Fetches the current latitude and longitude of the ISS.
+
+Sunrise-Sunset API — Determines if it’s nighttime at your coordinates.
+
+Email Notification — Sends an alert when both conditions are true.
+
+Loop & Delay — Runs every 60 seconds, checking for visibility.
+
+Lessons Learned
+
+Handling multiple APIs efficiently and parsing JSON data.
+
+Using datetime and UTC conversions to align time zones.
+
+Writing modular functions to separate logic (visibility vs. notification).
+
+Automating periodic checks with time.sleep().
+
+Next Steps
+
+Integrate SMS notifications via Twilio.
+
+Use scheduling (schedule or cron) instead of infinite loops.
+
+Containerize it with Docker for consistent background execution.
