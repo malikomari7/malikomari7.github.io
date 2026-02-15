@@ -1,6 +1,6 @@
 title: "Malik Griffin"
 name: "Malik Griffin"
-description: "IT Operations & Cybersecurity Professional"
+description: "Cloud Enginnering & Cybersecurity Professional"
 url: "https://malikgriffin.com"   # change after DNS is set
 baseurl: ""                       # keep empty
 locale: "en-US"
@@ -20,7 +20,7 @@ author:
   name: "Malik Griffin"
   avatar: "/assets/images/MalikHeadshot2.jpg"
   bio: "Building secure, automated IT systems through technical precision and proactive defense."
-  location: "Remote"
+  location: "U.S."
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
