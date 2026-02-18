@@ -1,7 +1,9 @@
 ---
+layout: single
 title: "F5 BIG-IP Log Correlation: Mapping External Exposure to Internal Systems"
+subtitle: "You Can't Protect What You Don't Know Exists"
 date: 2026-02-17
-categories: [Security Engineering, Network Visibility]
+author_profile: true
 tags: [F5, BIG-IP, Log Analysis, Security, Traffic Correlation]
 ---
 
